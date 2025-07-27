@@ -21,4 +21,5 @@ while num > 0:
     res = str(r) + res
     num = (num//2)
 print(res)   
-    
+
+#getting binary with a "while" loop
